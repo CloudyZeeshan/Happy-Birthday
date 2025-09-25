@@ -49,7 +49,7 @@ Celebrate birthdays with style! This project is a customizable birthday greeting
 
 ## 🔗 Live Demo
 
-[🔗 Click here to view the demo](https://happy-birthday-psi-red.vercel.app/surprise.html)
+[🔗 Click here to view the demo](https://happy-birthday-psi-red.vercel.app/index.html)
 
 ## 📄 License
 
